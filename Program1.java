@@ -1,4 +1,4 @@
-import java.util.*;
+//import java.util.*;
 class Program1{
 public static void main(String []args){
    int n=1011;
@@ -11,8 +11,8 @@ public static void main(String []args){
    {
      r = t % 10;
      t= t/10;
-     d=d +r *(int)Math.pow(2,i++);
+     d=d + r *(int)Math.pow(2,i++);
    }
      System.out.println(d);
     }
-}
+  }
