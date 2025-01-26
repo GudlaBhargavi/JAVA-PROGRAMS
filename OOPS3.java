@@ -1,5 +1,5 @@
 import java.util.*;
-public class OPPS3 {
+public class OOPS3 {
 
     public static int calMul(int a,int b){
        return a*b; 
