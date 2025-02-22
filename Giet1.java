@@ -40,3 +40,4 @@ public class Giet1 {
         System.out.println("Not enough food available.");
     }
 }
+
